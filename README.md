@@ -6,7 +6,6 @@ This is a time when games were mean't to be enjoyed, Arcade style.
 JavaScript is the preferred coding language used for this game.
 
 The coding concepts used were as follows:
-..........................................................................
 .appendChild()
 .createElement()
 Array.from()
@@ -21,7 +20,7 @@ setInterval()
 setTimeout()
 seitch()
 e.key
-..........................................................................
+
 
 Game components:
 The game components that were considered within the functionality include:
